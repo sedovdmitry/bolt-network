@@ -1,3 +1,8 @@
 # bolt-network
 ## codecademy unit
-[demo](https://kinogo.herokuapp.com "demo")
+
+Rails app with a [Home page](https://kinogo.herokuapp.com "demo home page") and [About page](https://kinogo.herokuapp.com/about "demo about page").
+
+---
+
+![screenshot](https://github.com/sedovdmitry/bolt-network/blob/master/app/assets/images/screenshot.png "screenshot app")
