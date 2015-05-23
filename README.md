@@ -5,4 +5,4 @@ Rails app with a [Home page](https://kinogo.herokuapp.com "demo home page") and 
 
 ---
 
-![screenshot](https://github.com/sedovdmitry/bolt-network/blob/master/app/assets/images/screenshot.png "screenshot app")
+![screenshot](https://github.com/sedovdmitry/bolt-network/blob/master/app/assets/images/screenshot.jpg "screenshot app")
